@@ -20,7 +20,7 @@ This project analyzes marketing campaign data to evaluate campaign effectiveness
 
 ## 📂 Dataset
 
-* Marketing campaign dataset containing customer demographics, campaign details, and responses
+* Marketing campaign dataset containing customer demographics, campaign details, and responses(https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
 * Features include:
 
   * `customer_id` 👤
